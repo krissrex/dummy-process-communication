@@ -37,8 +37,7 @@ Extra arguments for port mode
 
 Argument | Description
 ---------|------------
-`-p PORT` | Specify what port to use. Default: 0 (randomly assign a port and
-print it to stdout).
+`-p PORT` | Specify what port to use. Default: 0 (randomly assign a port and print it to stdout).
 
 
 
