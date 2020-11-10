@@ -1,5 +1,9 @@
 # Dummy process communication
 
+> **Note:** It is named `ecore-tool-process` because it was aimed to be an
+> arbitrary java program which used existing tooling for Ecore (such as EMF
+> Compare etc). It has no *actual* dependence or reference to Ecore otherwise.
+
 This is used in a master thesis research.  
 The goal of this program is to be started as a subprocess, and then
 communicated with over stdio or ports.
