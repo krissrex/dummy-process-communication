@@ -1,4 +1,6 @@
-# Dummy process communication
+# Prototype: Dummy process communication
+
+This prototype was developed as part of a thesis: https://github.com/krissrex/ntnu-tdt4501-preproject-article.
 
 > **Note:** It is named `ecore-tool-process` because it was aimed to be an
 > arbitrary java program which used existing tooling for Ecore (such as EMF
